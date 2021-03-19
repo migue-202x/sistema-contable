@@ -16,20 +16,5 @@ Facturación: Emitir comprobantes (tipo A/ tipo B)
 Listados: Listar Asientos, Balance, Libro Diario, Mayores, Plan de Cuentas
 Datos importantes:
 
-Asegurarse de importar todas las bases de datos:
-sistemas_3.sql
-contable.sql
-claves.sql
-clientes.sql
-stock.sql
-tipos_comprobantes.sql
-tipos_responsable.sql
-tipos_tasas.sql
-argentina.sql
-
-Al importar la base de datos argentina.sql, existirá a modo de ejemplo la empresa llamada 'Argentina' (luego podrá crear la cantidad de empresa que desee) Para acceder a la misma como Administrador loguearse como:
-
-Usuario= soporte
-Contraseña= 333
 
 
