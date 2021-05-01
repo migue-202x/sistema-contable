@@ -1,4 +1,4 @@
-# Sistema-contable
+# Sistema-Contable
 
   ***Acciones que permite llevar a cabo el sistema:***
 
